@@ -1,2 +1,2 @@
-# Programming Pearls Chinese answer
- 编程珠玑中文版习题解答
+# Programming Pearls Chinese Note
+ 编程珠玑中文版笔记
